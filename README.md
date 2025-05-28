@@ -11,7 +11,6 @@
   <li>Python | JavaScript | Java</li>
   <li>HTML, CSS e Git</li>
   <li>Desenvolvimento Web Full Stack</li>
-  <li>Integração de sistemas e APIs</li>
 </ul>
 
 <hr>
