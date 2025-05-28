@@ -1,7 +1,3 @@
-<img src="capa-git.png" alt="Banner do perfil" style="width:100%; max-width:800px; max-height:200px; object-fit:cover;" />
-
-
-
 <h1> Olá! Meu nome é Duda Santana! :) </h1>
 
 <p>🎓 Graduanda em <strong>Engenharia de Software</strong> e <strong>Relações Internacionais</strong><br>
