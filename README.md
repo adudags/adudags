@@ -1,4 +1,4 @@
-<img src="capa-git.png" alt="Banner" style="width:100%;" />
+<img src="capa-git.png" alt="Banner" style="width:50%;" />
 
 
 <h1> Olá! Meu nome é Duda Santana! :) </h1>
