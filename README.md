@@ -1,4 +1,5 @@
-<img src="capa-git.png" alt="Banner" style="width:50%;" />
+<img src="capa-git.png" alt="Banner do perfil" style="width:100%; max-width:800px; max-height:200px; object-fit:cover;" />
+
 
 
 <h1> Olá! Meu nome é Duda Santana! :) </h1>
