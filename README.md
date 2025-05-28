@@ -1,4 +1,4 @@
-<h1> Olá! Meu nome é Duda Santana! :) </h1>
+<h3> Olá! Meu nome é Duda Santana! :) </h3>
 
 <p>🎓 Graduanda em <strong>Engenharia de Software</strong> e <strong>Relações Internacionais</strong><br>
 💻 Focada em desenvolvimento <strong>Full Stack</strong><br>
@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>🚀 Em aprendizado</h2>
+<h4>🚀 Em aprendizado</h4>
 <ul>
   <li>Python | JavaScript | Java</li>
   <li>HTML, CSS e Git</li>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>🌐 Idiomas</h2>
+<h4>🌐 Idiomas</h4>
 <ul>
   <li>Português (nativo)</li>
   <li>Inglês (intermediário/avançado)</li>
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2>🎯 Objetivo</h2>
+<h4>🎯 Objetivo</h4>
 <p>
 Aplicar minhas habilidades técnicas e humanas em projetos inovadores com impacto global, conciliando minhas formações para atuar também fora do Brasil.
 </p>
